@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
