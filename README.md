@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0014-longest-common-prefix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -52,8 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
