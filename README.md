@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
