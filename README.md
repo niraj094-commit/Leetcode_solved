@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0520-detect-capital) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
