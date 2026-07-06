@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [1288-remove-covered-intervals](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
