@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -97,17 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0199-binary-tree-right-side-view) |
 ## Dynamic Programming
 |  |
 | ------- |
