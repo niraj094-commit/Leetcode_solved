@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0520-detect-capital) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
