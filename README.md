@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
