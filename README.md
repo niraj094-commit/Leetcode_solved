@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
