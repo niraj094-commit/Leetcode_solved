@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1952-three-divisors](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -198,9 +199,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
