@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0338-counting-bits) |
 | [1301-number-of-paths-with-max-score](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0338-counting-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
