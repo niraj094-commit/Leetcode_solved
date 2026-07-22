@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
 | [1025-divisor-game](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/niraj094-commit/Leetcode_solved/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niraj094-commit/Leetcode_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1025-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
