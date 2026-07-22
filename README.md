@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0043-multiply-strings) |
+| [0507-perfect-number](https://github.com/niraj094-commit/Leetcode_solved/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/niraj094-commit/Leetcode_solved/tree/master/1137-n-th-tribonacci-number) |
